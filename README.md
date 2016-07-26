@@ -12,7 +12,7 @@ And the source code of demo [here](https://github.com/code-mancers/rapidfire-dem
 ## Installation
 Add this line to your application's Gemfile:
 
-    gem 'rapidfire'
+  gem 'rapidfire', git:"https://dc4bc7f9ca39acffa2ad2350a4c29b72e8efa169:x-oauth-basic@github.com/espnbr/espn-survey.git", branch:'espn'
 
 And then execute:
 
